@@ -3,5 +3,5 @@ Reosulusi 2022
 -Belajar lebih lanjut JavaScript
 -Belajar Frontend menggunakan React.js
 -Belajar Backend menggunakan node.js
--Belajar Backend laravel
 -Belajar Flutter
+-Belajar VR

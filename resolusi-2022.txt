@@ -1,0 +1,5 @@
+Reosulusi 2022
+-Belajar Pemrograman dengan teknologi terbaru
+-Belajar lebih lanjut JavaScript
+-Belajar Frontend menggunakan React.js
+-Belajar Backend menggunakan node.js
